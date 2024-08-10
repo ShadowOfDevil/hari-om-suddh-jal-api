@@ -1,0 +1,13 @@
+{
+    "name": "hari-om-suddha-jal-api",
+    "version": "0.1.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start": "json-server --watch db.json --port 5000"
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "json-server": "^1.0.0-beta.1"
+    }
+}
